@@ -1,6 +1,11 @@
 <h1 align="center">✦ HoloDash ✦</h1>
 
 <p align="center">
+  <img width="45%" src="PREVIEW_1_OS.jpeg" alt="HoloDash Preview 1">
+  <img width="45%" src="PREVIEW_2_OS.jpeg" alt="HoloDash Preview 2">
+</p>
+
+<p align="center">
   <b>Ambient Holographic Dashboard</b><br>
   Futuristic always-on wall display — time, weather, quotes, progress & optional prayer times.
 </p>
