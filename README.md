@@ -136,5 +136,4 @@ Output lands in `dist/` — serve with any static file server.
 
 ## ✦ Credits
 
-Built on [Holographic Dashboard](https://github.com/PreFounded/HOLOGRAPHIC-DASHBOARD) by PreFounded.  
-Originally created for Google AI Studio.
+Built on [Holographic Dashboard](https://github.com/PreFounded/HOLOGRAPHIC-DASHBOARD) by PreFounded.
