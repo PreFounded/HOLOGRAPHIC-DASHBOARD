@@ -1,7 +1,3 @@
-<p align="center">
-  <img width="1200" alt="HoloDash Banner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6">
-</p>
-
 <h1 align="center">✦ HoloDash ✦</h1>
 
 <p align="center">
