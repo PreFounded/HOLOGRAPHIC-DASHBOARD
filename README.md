@@ -7,7 +7,7 @@
 
 <p align="center">
   <b>Ambient Holographic Dashboard</b><br>
-  Futuristic always-on wall display — time, weather, quotes, progress & optional prayer times.
+  Futuristic holographic projector display — time, weather, quotes, progress & optional prayer times.
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 
 Holographic theme with scanlines, glow FX, and breathing animation.  
 Six color presets — **Cyan · Green · Purple · Amber · White · RGB** rainbow cycle.  
-Responsive grid — looks stunning on monitors, tablets, and wall displays.
+Responsive grid — optimized for projection with pure black background for maximum holographic effect.
 
 ---
 
@@ -95,7 +95,7 @@ Run `bash setup.sh` for an interactive walkthrough that writes `src/config.ts` f
 
 ## ✦ Systemd Service
 
-For always-on displays (Raspberry Pi, old laptop, tablet kiosk):
+For wall projection setups (Raspberry Pi, old laptop, media stick):
 
 ```bash
 bash setup.sh    # offers optional systemd installation
